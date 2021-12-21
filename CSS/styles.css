@@ -1,0 +1,91 @@
+.top-container {
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+body {
+  margin: 0px;
+  text-align: center;
+  padding: 0;
+  background-color: #fef1e6;
+  background-image: linear-gradient(#fef1e6, #f9d5a7, #ffb085, #90aacb);
+}
+h1 {
+  margin-bottom: 0px;
+  font-family: "Pacifico", cursive;
+  font-weight: 600;
+}
+.taught {
+  text-decoration: underline;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 120%;
+}
+.topcloud {
+  position: absolute;
+  left: 1200px;
+  top: 50px;
+}
+.bottomcloud {
+  position: absolute;
+  right: 1200px;
+}
+.mypic {
+  width: 150px;
+  border-radius: 100%;
+}
+h2 {
+  font-family: "Pacifico", cursive;
+}
+h3 {
+  font-family: "Pacifico", cursive;
+}
+.mainhtwo {
+  font-weight: normal;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.1rem;
+  line-height: 2em;
+}
+.freepik {
+  font-size: 5px;
+}
+.myhtml {
+  width: 15%;
+  float: left;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
+.leadership {
+  width: 15%;
+  float: right;
+  margin-left: 2em;
+  border-radius: 5%;
+  margin-bottom: 2em;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2em;
+}
+.bottom-container {
+  padding-top: 1em;
+  margin-top: 1em;
+}
+.contact-button {
+  border-radius: 10%;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #f9d5a7;
+  border: none;
+  padding: 8px 10px 8px 10px;
+}
+.contact-button:hover {
+  background-color: #f5debf;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
